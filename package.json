@@ -101,7 +101,7 @@
     "extract-text-webpack-plugin": "^3.0.2",
     "file-loader": "^1.1.6",
     "headroom.js": "^0.9.3",
-    "highcharts": "^6.0.1",
+    "highcharts": "^8.2.0",
     "history": "^4.7.2",
     "husky": "^0.14.3",
     "immutability-helper": "^2.6.4",
